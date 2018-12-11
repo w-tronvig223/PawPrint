@@ -1,11 +1,21 @@
-html { 
+/* html { 
     background: url(james.jpg) no-repeat center center fixed; 
     background-size: cover;
-  } 
+  }  */
 
  h1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+  }
+
+  img {
+    width: 500px;
+    height: 500px;
   }
